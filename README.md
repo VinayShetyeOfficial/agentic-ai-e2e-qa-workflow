@@ -1,8 +1,13 @@
+
+
+<div align="center">
+  
 # 🤖 Agentic AI End-to-End QA Workflow
 
 **Complete automated testing workflow from user story to production using AI agents, multi-agent orchestration, and intelligent test generation, execution, and healing.**
+<!-- Hero Banner - Generate using prompt from assets/image-prompts.md -->
 
-<div align="center">
+![Agentic AI End-to-End QA Workflow](assets/hero.png)
 
 [![Playwright](https://img.shields.io/badge/Playwright-Test_Framework-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Test_Scripts-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -13,9 +18,6 @@
 
 [🚀 **View Demo**](test-results/SCRUM-101-checkout-test-report.md) • [📋 **Test Plan**](specs/saucedemo-checkout-test-plan.md) • [🤖 **Test Scripts**](tests/saucedemo-checkout/) • [📊 **Results**](exploratory-test-results.md)
 
-<!-- Hero Banner - Generate using prompt from assets/image-prompts.md -->
-
-![Agentic AI End-to-End QA Workflow](assets/hero.png)
 
 </div>
 
