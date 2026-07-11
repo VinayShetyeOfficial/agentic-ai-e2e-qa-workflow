@@ -154,8 +154,6 @@ npx playwright test TC-001-complete-checkout-single-item.spec.ts --headed
 
 ### 🏆 Quality Metrics
 
-<div align="center">
-
 | Metric                          | Value                       | Grade |
 | ------------------------------- | --------------------------- | ----- |
 | **Automated Test Pass Rate**    | 21/21 (100%)                | 🟢 A+ |
